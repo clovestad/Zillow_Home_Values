@@ -1,8 +1,8 @@
 ## part 1
-1. Extracting and plotting  Coeficients from privided Zillow home value Dataset.
+1. Extracting and plotting  Coeficients from privided Zillow home value Dataset. 
+.
 
-
- ![image](https://github.com/clovestad/Zillow_Home_Values/assets/103072823/3b73fcb4-847e-4270-8ae7-ae531c0d9533)
+![image](https://github.com/clovestad/Zillow_Home_Values/assets/103072823/3b73fcb4-847e-4270-8ae7-ae531c0d9533)
 
 ![image](https://github.com/clovestad/Zillow_Home_Values/assets/103072823/a998c2de-32c1-47b3-a93f-fce1bc2f21d2)
 
